@@ -12,3 +12,5 @@ find images by matchTemplate of OpenCV and compare with images in folder
 use pyautogui to autoclick on screen
 
 
+### Reference
+https://github.com/paulonteri/play-game-with-computer-vision
